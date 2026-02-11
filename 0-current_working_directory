@@ -1,2 +1,6 @@
 #!/bin/bash
 pwd
+<<<<<<< HEAD
+=======
+
+>>>>>>> 1e0e235 (Add 0-current_working_directory)
